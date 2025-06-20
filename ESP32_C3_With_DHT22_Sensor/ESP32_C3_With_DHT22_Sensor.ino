@@ -11,7 +11,7 @@
 #define THINGSBOARD_PORT     1883
 #define ACCESS_TOKEN         "vypuqubzxn9oht2wne7y"
 
-#define DHTPIN 5
+#define DHTPIN 3
 #define DHTTYPE DHT22
 DHT dht(DHTPIN, DHTTYPE);
 
