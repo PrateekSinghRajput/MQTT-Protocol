@@ -1,6 +1,6 @@
 # MQTT-Protocol 📡
 
-Welcome to the **MQTT-Protocol** repository! This project demonstrates the use of the MQTT protocol with ESP32 devices and sensors. Below you will find an introduction to MQTT and explanations of its basic concepts with helpful emojis to make it easy to understand. 🚀
+Welcome to the **MQTT-Protocol** repository! This project demonstrates the use of the MQTT protocol with ESP32 devices and sensors. Below you will find an introduction to MQTT and explanations of its basic concepts with helpful to make it easy to understand. 🚀
 
 ---
 
