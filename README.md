@@ -56,12 +56,4 @@ LWT is a message that the broker sends on behalf of a client if it disconnects u
 
 ---
 
-## Repository Contents 📂
-
-- **ESP32_C3_With_DHT22_Sensor**: Example code for ESP32-C3 with a DHT22 temperature and humidity sensor.
-- **Air_Quality_ESP32_Thingsboard**: Example for air quality monitoring with ESP32 and ThingsBoard integration.
-- **README.md**: This file explaining the project and MQTT basics.
-
----
-
 Happy IoT coding! 🤖✨
